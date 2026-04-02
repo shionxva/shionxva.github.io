@@ -1,4 +1,4 @@
-# Personal Blog – 
+# Personal Blog – shionxva
 
 Welcome to my personal blog repository! This project is a fast, minimalist blog built using **Astro** and styled with the beautiful [**🍥Fuwari**](https://github.com/saicaca/fuwari) template.
 
@@ -30,27 +30,7 @@ Welcome to my personal blog repository! This project is a fast, minimalist blog 
 
 ## Writing a Blog Post
 
-1. Navigate to the content folder:
-
-   ```
-   src/content/
-   ```
-
-2. Create a new `.md` file:
-
-```md
----
-title: "My First Post"
-date: "2026-01-01"
-description: "This is my first blog post"
----
-
-Hello world! 🚀
-```
-
-3. Save and refresh — Astro will automatically update.
-
----
+Run pnpm `new-post <filename>` to create a new post and edit it in `src/content/posts/`
 
 ## Recreate
 
